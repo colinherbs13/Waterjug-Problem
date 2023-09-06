@@ -1,0 +1,4 @@
+Capacity of jug A: 5
+Capacity of jug B: 6
+Initial state: 0 0
+Goal state: 3 0
